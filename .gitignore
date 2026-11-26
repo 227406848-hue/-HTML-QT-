@@ -1,0 +1,7 @@
+# 编译产物 / IDE / 本机文件
+build/
+.qtcreator/
+*.user
+*.log
+audio-demo.wav
+Desktop_Qt_*
